@@ -22,11 +22,9 @@ body {
     flex-wrap: wrap;
     flex-direction: row;
     width: 100%;
-    row-gap: 10px;
     align-items: center;
     justify-content: center;
     border-radius: 12px;
-    margin: 0 auto;
     overflow: hidden;
     background-color: var(--bright_cyan);
 }
